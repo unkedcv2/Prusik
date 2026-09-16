@@ -1,0 +1,6 @@
+{
+  "name": "Prusik Naturaleza",
+  "description": "Experiencias de aventura, jornadas, campamentos, viajes de egresados y propuestas para grupos en Estancia Loma Pampa, Azul, Buenos Aires.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
