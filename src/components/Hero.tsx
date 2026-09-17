@@ -86,11 +86,9 @@ export default function Hero() {
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             transition={{ delay: 0.9, duration: 0.8 }}
-            className="flex flex-col items-center gap-1.5 text-white/85 hover:text-white pt-4 sm:pt-6 group cursor-pointer"
+            className="flex flex-col items-center pt-4 sm:pt-6 group cursor-pointer"
+            title="Ver propuestas"
           >
-            <span className="text-[11px] uppercase tracking-widest font-semibold text-white/70 group-hover:text-white transition-colors">
-              Descubrí Nuestras Propuestas
-            </span>
             <FlechaLogo color="orange" direction="down" animate="float-y" className="w-8 h-3 drop-shadow-md" />
           </motion.a>
 
